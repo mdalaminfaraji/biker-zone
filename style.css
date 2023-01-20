@@ -1,0 +1,22 @@
+.bikerzoner-light-red{
+    background-color: rgba(201, 12, 12, 0.753);
+}
+.rating{
+    width: 20px;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+
+
+}
+ul li{
+    list-style-type: none;
+    padding-right: 6px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
